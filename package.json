@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "description": "Shareable ESLint ruleset for NodeJS and TypeScript projects prepared for my Rush Monorepos.",
+  "license": "UNLICENSED",
+  "author": "newmca",
+  "scripts": {
+    "build": ""
+  },
+  "dependencies": {
+    "@next/eslint-plugin-next": "13.4.12",
+    "@rushstack/eslint-config": "2.4.0",
+    "@tanstack/eslint-plugin-query": "4.15.1",
+    "@typescript-eslint/parser": "5.62.0",
+    "eslint-config-next": "13.4.12",
+    "eslint-plugin-import": "2.23.2",
+    "eslint-plugin-lodash": "7.2.0",
+    "eslint-plugin-promise": "5.1.0",
+    "eslint-plugin-react-hooks": "4.3.0",
+    "eslint-plugin-storybook": "0.5.7"
+  },
+  "devDependencies": {
+    "@babel/core": "7.22.0",
+    "@babel/eslint-parser": "7.15.0",
+    "eslint": "7.26.0",
+    "typescript": "4.5.2"
+  }
+}
