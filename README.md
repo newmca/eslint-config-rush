@@ -1,0 +1,2 @@
+
+This is a shareable ESLint ruleset for NodeJS and TypeScript projects prepared for my Rush Monorepos. Most of these configs are loosely based on the [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript).
